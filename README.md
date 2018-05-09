@@ -124,5 +124,5 @@ Setting environment:adt for hostname: phmjmp01094d01.adt.np.costco.com
 ```
 
 ### Example Satellite server custom value search search
-![image showing sat server search](http://raw.githubusercontent.com/sboger/python_automation_example/master/python_automation_example.png)
+![](python_automation_example.png) 
 
